@@ -474,6 +474,10 @@ body.impress-mouse-timeout {
     pointer-events: auto
 }
 
+#impress-toolbar{
+    display: none;
+}
+
 h1 {
     font-size: 100px;
     font-weight: bold;
